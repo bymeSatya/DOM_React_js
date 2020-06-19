@@ -1,0 +1,15 @@
+.container{
+	background-color: yellow;
+	color: green;
+	width: 250px;
+	height: 400px;
+	margin: 7%;
+	text-align: center;
+	border-radius: 7%;
+
+}
+img{
+	border-radius: 20px;
+    margin: 3%;
+    height: 250px;
+}
